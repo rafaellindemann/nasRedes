@@ -25,6 +25,7 @@ Repositório de postagens interessantes para devs e aprendizes
 ## Carreira
 
 ## JS
+### 5 Amazing Github Repositories to Master JavaScript in 2025: https://www.instagram.com/reel/DFDEK9TIHjt/?igsh=eHdlNTY0Z2t3ZXNv
 
 ## APIs
 
