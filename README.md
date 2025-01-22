@@ -20,6 +20,8 @@ Repositório de postagens interessantes para devs e aprendizes
 ### Create these toast notifications using HTML and CSS
 https://www.threads.net/@davidm_ai/post/DFA_eHegR56?xmt=AQGzazWjC6j9w7sLyYl4hgz5bAYH-v2PScvTkPQoRBvdUg
 
+### Um repo gigante de coisinhas que o programador.cs já fez pra publicar nos reels
+https://github.com/Cassianosch/programador.cs-reels
 
 
 ## Ferramentas
