@@ -1,5 +1,8 @@
 # nasRedes
-Repositório de postagens interessantes para devs e aprendizes
+Repositório de postagens interessantes para devs e aprendizes. Aqui tem o que esbarrei enquanto surfava nas webs. Se quiser contribuir com algum link abre uma issue e coloca ali :D
+
+Falando nisso, espia as issues também que lá tem coisa que ainda não foi organizada pra vir pra cá!
+
 
 ## Sumário
 
