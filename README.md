@@ -35,6 +35,14 @@ https://shape.so/browse
 ### Liberar espaço em disco aniquilando aqueles inúteis node_modules esquecidos:
 https://www.instagram.com/reel/DEkN1Z4oE-B/?igsh=MWd4ZGY4MWZmYTBubw%3D%3D
 
+### Site com várias ferramentinhas úteis para devs
+https://www.instagram.com/reel/DDH4WkJAcbB/?igsh=aGxudm14NzAzNW96 <br>
+https://it-tools.tech/
+
+## yurimutti/recursos-frontend: repo com um baita compilado de um monte de ferramentas úteis para frontenders e devs em geral
+https://www.instagram.com/reel/DEnDvTOxkpI/?igsh=MTkwcXgxenB1ODVuOA%3D%3D
+https://github.com/yurimutti/recursos-frontend
+
 ## Front
 
 ## Carreira
