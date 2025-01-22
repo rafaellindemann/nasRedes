@@ -27,13 +27,16 @@ https://www.threads.net/@davidm_ai/post/DFA_eHegR56?xmt=AQGzazWjC6j9w7sLyYl4hgz5
 https://www.instagram.com/reel/DE-OXC-xxrc/?igsh=anVhM2c4ODc3bWVl <br>
 https://shape.so/browse
 
+### Liberar espaço em disco aniquilando aqueles inúteis node_modules esquecidos:
+https://www.instagram.com/reel/DEkN1Z4oE-B/?igsh=MWd4ZGY4MWZmYTBubw%3D%3D
 
 ## Front
 
 ## Carreira
 
 ## JS
-### 5 Amazing Github Repositories to Master JavaScript in 2025: https://www.instagram.com/reel/DFDEK9TIHjt/?igsh=eHdlNTY0Z2t3ZXNv
+### 5 Amazing Github Repositories to Master JavaScript in 2025: 
+https://www.instagram.com/reel/DFDEK9TIHjt/?igsh=eHdlNTY0Z2t3ZXNv
 
 ## APIs
 
