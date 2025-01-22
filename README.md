@@ -17,6 +17,10 @@ Repositório de postagens interessantes para devs e aprendizes
 - [Memes](#memes)
 
 ## FrontTips
+### Create these toast notifications using HTML and CSS
+https://www.threads.net/@davidm_ai/post/DFA_eHegR56?xmt=AQGzazWjC6j9w7sLyYl4hgz5bAYH-v2PScvTkPQoRBvdUg
+
+
 
 ## Ferramentas
 ### Ícones e ilustrações estáticos e animados (iconify + storyset):
